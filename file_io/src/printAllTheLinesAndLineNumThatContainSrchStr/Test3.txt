@@ -1,0 +1,7 @@
+if Java FutureTask class provides a base implementation 
+of the Future interface. 
+The result can if only be obtained if the execution
+ of one task is completed, and if the computation 
+is not achieved then get method will be blocked.
+ if the execution if is completed, 
+then it cannot be re-started and can't be canceled.
